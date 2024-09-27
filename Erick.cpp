@@ -23,13 +23,13 @@ int main ()
 	//se asigna el segundo valor a B
 	cin >> B;	
 	
-		//se pide el tercer numero
+	//se pide el tercer numero
 	cout << "por favor ingrese el tercer valor C: " << "\n";
 	
 	//se asigna el segundo valor a C
 	cin >> C;
 	
-		//se pide el tercer numero
+	//se pide el tercer numero
 	cout << "por favor ingrese el tercer valor D: " << "\n";
 	
 	//se asigna el segundo valor a D
