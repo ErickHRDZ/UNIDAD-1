@@ -9,13 +9,13 @@ int main()
 	//MENSAJE DE BIENVENIDA
 	cout <<"Hola! Este programa 1.10 Calcula la superficie y el perimetro de un rectangulo" <<"\n";
 	
-	//Se declaran los números que se sumarán (pueden ser decimales)
+	//Se declaran los nÃºmeros que se sumarÃ¡n (pueden ser decimales)
 	
-	//Se pide el primer número
+	//Se pide el primer nÃºmero
 	cout<< "Por favor ingrese el valor de la Base:" << "\n";
 	//Se pide el primer valor a Base
 	cin >> Base;
-	//Se pide el segundo número
+	//Se pide el segundo nÃºmero
 	cout<< "Por favor ingrese el valor de la Altura:" << "\n";
 	//Se pide el segundo valor a Altura
 	cin >> Altura;
